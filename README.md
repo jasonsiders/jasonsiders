@@ -8,9 +8,12 @@ I've been developing on the Salesforce platform since 2019.
 - Salesforce Advanced Administrator (#21009053)
 - Salesforce Administrator (#19791205)
 
+### Projects:
+`apex-starter-pack`: A lightweight, yet useful Apex library that any org can make use of to decrease development time and increase reliability.
+
 ### Currently working on:
+- Studying for the Platform Developer II exam.
 - Learning about `SOM` (Salesforce Order Management) its integrations w/SFCC
-- (Coming Soon!) `apex-starter-pack`: A lightweight, yet useful Apex library that any org can make use of to decrease development time and increase reliability.
-- Studying for more Salesforce certificates; next up: Platform Developer II and JavaScript Developer I.
+- More certificates: JavaScript Developer I, SOM certificates, etc.
 - Learning more about Python and its various use cases in the SFDC ecosystem.
 - Contributing to more open source projects wherever I can.
