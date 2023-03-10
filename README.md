@@ -20,5 +20,5 @@ Wannna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/j
 - Implementing _Salesforce Order Management_ for clients. 
 - [`apex-starter-pack`](https://github.com/jasonsiders/apex-starter-pack): An open source library of utilities to kick start any Apex project, along with a collection of applications which extend that base package. 
 - [`apxsp-logger`](https://github.com/jasonsiders/apxsp-logger): A lightweight, powerful custom solution built using `apex-starter-pack`.
-- [`apxsp-garbage-collector](https://github.com/jasonsiders/apxsp-garbage-collector): A garbage collection framework for Salesforce, built using `apex-starter-pack`.
+- [`apxsp-garbage-collector`](https://github.com/jasonsiders/apxsp-garbage-collector): A garbage collection framework for Salesforce, built using `apex-starter-pack`.
 - [`apxsp-rollup`](https://github.com/jasonsiders/apxsp-rollup): An apex-driven rollup application, built using `apex-starter-pack`.
