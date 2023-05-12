@@ -10,8 +10,8 @@ Wannna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/j
 - Salesforce Advanced Administrator (#21009053)
 - Salesforce Administrator (#19791205)
 #### Salesforce Accredited Professional
-- [Salesforce Order Management Developer Accredited Professional](https://www.credly.com/badges/3f673aa0-1aff-4e28-8953-c851755af1e6/print))
-- [Salesforce Order Management Administrator AP](https://www.credly.com/badges/6caf0f68-92a0-4d49-86b4-7315b554d28f/public_url))
+- [Salesforce Order Management Developer Accredited Professional](https://www.credly.com/badges/3f673aa0-1aff-4e28-8953-c851755af1e6/print)
+- [Salesforce Order Management Administrator AP](https://www.credly.com/badges/6caf0f68-92a0-4d49-86b4-7315b554d28f/public_url)
 
 ### Projects:
 `apex-starter-pack`: A lightweight, yet useful Apex library that any org can make use of to decrease development time and increase reliability.
