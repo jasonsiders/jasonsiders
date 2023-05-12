@@ -3,15 +3,15 @@ Hi! I'm [@jasonsiders](https://github.com/jasonsiders). I'm a Salesforce Develop
 Wannna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/jasonsiders/).
 
 ### Certifications:
-#### Salesforce Certified ([Verify Here](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=d6Cd87CnUTqjw9YKVrnqm/WHYLDW/ShTTiHL8kGwOzE3cUeuvgjWZSQQfZVVjmjZ))
+#### [Salesforce Certified](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=d6Cd87CnUTqjw9YKVrnqm/WHYLDW/ShTTiHL8kGwOzE3cUeuvgjWZSQQfZVVjmjZ))
 - Salesforce Platform Developer II (#2616502) 
 - Salesforce Platform Developer I (#21581031)
 - Salesforce Platform App Builder (#21154618)
 - Salesforce Advanced Administrator (#21009053)
 - Salesforce Administrator (#19791205)
 #### Salesforce Accredited Professional
-- Salesforce Order Management Developer AP ([Verify Here](https://www.credly.com/badges/3f673aa0-1aff-4e28-8953-c851755af1e6/print))
-- Salesforce Order Management Administrator AP ([Verify Here](https://www.credly.com/badges/6caf0f68-92a0-4d49-86b4-7315b554d28f/public_url))
+- [Salesforce Order Management Developer Accredited Professional](https://www.credly.com/badges/3f673aa0-1aff-4e28-8953-c851755af1e6/print))
+- [Salesforce Order Management Administrator AP](https://www.credly.com/badges/6caf0f68-92a0-4d49-86b4-7315b554d28f/public_url))
 
 ### Projects:
 `apex-starter-pack`: A lightweight, yet useful Apex library that any org can make use of to decrease development time and increase reliability.
