@@ -14,6 +14,5 @@ Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/ja
 
 ### Currently working on:
 - [`apex-starter-pack`](https://github.com/jasonsiders/apex-starter-pack): An open source library of utilities to kick start any Apex project, along with a collection of applications which extend that base package. 
-- [`apxsp-logger`](https://github.com/jasonsiders/apxsp-logger): A lightweight, powerful custom solution built using `apex-starter-pack`.
-- [`apxsp-garbage-collector`](https://github.com/jasonsiders/apxsp-garbage-collector): A garbage collection framework for Salesforce, built using `apex-starter-pack`.
-- [`apxsp-rollup`](https://github.com/jasonsiders/apxsp-rollup): An apex-driven rollup application, built using `apex-starter-pack`.
+- [`apex-logger`](https://github.com/jasonsiders/apex-logger): A lightweight, yet powerful logging solution for Salesforce.
+- [`apex-async-actions`](https://github.com/jasonsiders/apex-async-actions): Supercharge your asynchronous processing with custom actions and real-time monitoring.
