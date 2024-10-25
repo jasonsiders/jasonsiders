@@ -9,9 +9,6 @@ Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/ja
 - Salesforce Advanced Administrator (#21009053)
 - Salesforce Administrator (#19791205)
 
-### Projects:
-`apex-starter-pack`: A lightweight, yet useful Apex library that any org can make use of to decrease development time and increase reliability.
-
 ### Currently working on:
 - [`apex-async-actions`](https://github.com/jasonsiders/apex-async-actions): Supercharge your asynchronous processing with custom actions and real-time monitoring.
 - [`apex-database-layer`](https://github.com/jasonsiders/apex-database-layer): A slim, extensible DML & SOQL Mocking Library.
