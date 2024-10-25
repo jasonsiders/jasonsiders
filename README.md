@@ -2,8 +2,6 @@ Hi! I'm [@jasonsiders](https://github.com/jasonsiders). I'm a Salesforce Develop
 
 Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/jasonsiders/).
 
-Interested in hiring me? Check out my resume [here](https://registry.jsonresume.org/jasonsiders).
-
 ### [Certifications](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=d6Cd87CnUTqjw9YKVrnqm/WHYLDW/ShTTiHL8kGwOzE3cUeuvgjWZSQQfZVVjmjZ):
 - Salesforce Platform Developer II (#2616502) 
 - Salesforce Platform Developer I (#21581031)
