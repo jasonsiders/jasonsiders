@@ -1,4 +1,8 @@
-Hi! I'm [@jasonsiders](https://github.com/jasonsiders). I'm a Salesforce Developer located in Nashville, TN. I've been working on the Salesforce platform for over half a decade, in roles ranging from an admin, developer, and consultant. Currently, I work as a Senior Salesforce Developer for [Lumio](https://www.lumio.com/).
+Hi! 👋 I'm [@jasonsiders](https://github.com/jasonsiders). 
+
+I'm a 5x certified Salesforce Developer with nearly 6 years of experience crafting elegant, scalable solutions on the Salesforce platform. My background includes working across diverse professional settings, including in-house roles, consulting, and open-source projects.
+
+I’m a self-taught technologist who broke into the industry through dedication and self-study, eventually landing an internal role at my company. Since then, I’ve continued to grow, using my skills to help companies solve complex challenges. I’m just as comfortable engaging with people as I am with technology, and I’m passionate about delivering solutions that make an impact.
 
 Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/jasonsiders/).
 
