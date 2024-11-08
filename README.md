@@ -26,4 +26,4 @@ I’m a self-taught technologist who broke into the industry through dedication 
   - [`apex-async-actions`](https://github.com/jasonsiders/apex-async-actions): Supercharge your asynchronous processing with custom actions and real-time monitoring.
   - [`apex-database-layer`](https://github.com/jasonsiders/apex-database-layer): A slim, extensible DML & SOQL Mocking Library.
   - [`apex-garbage-collector`](https://github.com/jasonsiders/apex-garbage-collector): An easy, configurable way to keep your data storage in check.
-  - [`apex-logger`](https://github.com/jasonsiders/apex-logger): A lightweight, yet powerful logging solution for Salesforce.
+  - [`apex-logger`](https://github.com/jasonsiders/apex-logger): A lightweight, powerful logging solution for Salesforce.
