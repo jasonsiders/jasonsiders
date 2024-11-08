@@ -4,7 +4,11 @@ I'm a 5x certified Salesforce Developer with nearly 6 years of experience crafti
 
 I’m a self-taught technologist who broke into the industry through dedication and self-study, eventually landing an internal role at my company. Since then, I’ve continued to grow, using my skills to help companies solve complex challenges. I’m just as comfortable engaging with people as I am with technology, and I’m passionate about delivering solutions that make an impact.
 
-Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/jasonsiders/).
+👔 Interested in working together? Check out my resume [here](https://registry.jsonresume.org/jasonsiders).
+
+👨‍💻 Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/jasonsiders/).
+
+---
 
 ### [Certifications](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=d6Cd87CnUTqjw9YKVrnqm/WHYLDW/ShTTiHL8kGwOzE3cUeuvgjWZSQQfZVVjmjZ):
 - Salesforce Platform Developer II (#2616502) 
@@ -12,6 +16,8 @@ Wanna talk shop? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/ja
 - Salesforce Platform App Builder (#21154618)
 - Salesforce Advanced Administrator (#21009053)
 - Salesforce Administrator (#19791205)
+
+---
 
 ### Currently working on:
 - [`apex-async-actions`](https://github.com/jasonsiders/apex-async-actions): Supercharge your asynchronous processing with custom actions and real-time monitoring.
