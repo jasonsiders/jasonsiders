@@ -1,6 +1,6 @@
 Hi! 👋 I'm [@jasonsiders](https://github.com/jasonsiders). 
 
-I'm a 6x certified Salesforce Developer with nearly 6 years of experience crafting elegant, scalable solutions on the Salesforce platform. My background includes working across diverse professional settings, including in-house roles, consulting, and open-source projects.
+I'm a 6x certified Salesforce Developer with 6 years of experience crafting elegant, scalable solutions on the Salesforce platform. My background includes working across diverse professional settings, including in-house roles, consulting, and open-source projects.
 
 I’m a self-taught technologist who broke into the industry through dedication and self-study, eventually landing an internal role at my company. Since then, I’ve continued to grow, using my skills to help companies solve complex challenges. I’m just as comfortable engaging with people as I am with technology, and I’m passionate about delivering solutions that make an impact.
 
