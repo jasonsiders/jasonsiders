@@ -24,6 +24,7 @@ I’m a self-taught technologist who broke into the industry through dedication 
 - 👨‍💻 Building cool stuff for Nasuni
 - 🤝 My various open source projects, including:
   - [`apex-async-actions`](https://github.com/jasonsiders/apex-async-actions): Supercharge your asynchronous processing with custom actions and real-time monitoring.
+  - [`apex-benchmarking`](https://github.com/jasonsiders/apex-benchmarking): An on-platform solution for monitoring the performance of Salesforce automations.
   - [`apex-database-layer`](https://github.com/jasonsiders/apex-database-layer): A slim, extensible DML & SOQL Mocking Library.
   - [`apex-garbage-collector`](https://github.com/jasonsiders/apex-garbage-collector): An easy, configurable way to keep your data storage in check.
   - [`apex-logger`](https://github.com/jasonsiders/apex-logger): A lightweight, powerful logging solution for Salesforce.
