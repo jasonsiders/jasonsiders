@@ -28,4 +28,5 @@ I’m a self-taught technologist who broke into the industry through dedication 
   - [`apex-benchmarking`](https://github.com/jasonsiders/apex-benchmarking): An on-platform solution for monitoring the performance of Salesforce automations.
   - [`apex-database-layer`](https://github.com/jasonsiders/apex-database-layer): A slim, extensible DML & SOQL Mocking Library.
   - [`apex-garbage-collector`](https://github.com/jasonsiders/apex-garbage-collector): An easy, configurable way to keep your data storage in check.
+  - [`apex-mock-api`](https://github.com/jasonsiders/apex-mock-api): A simple, flexible System.HttpCalloutMock framework for Salesforce.
   - [`apex-logger`](https://github.com/jasonsiders/apex-logger): A lightweight, powerful logging solution for Salesforce.
